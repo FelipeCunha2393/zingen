@@ -23,6 +23,10 @@
   display: flex;
 }
 
+.itens-center {
+  align-items: center;
+}
+
 .grid {
   display: grid;
 }
