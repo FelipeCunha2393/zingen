@@ -45,7 +45,7 @@
   margin-inline: auto;
 }
 
-.display-only {
+.desktop-only {
   display: none;
 }
 
@@ -54,7 +54,7 @@
     --max-width: 80em;
   }
 
-  .display-only {
+  .desktop-only {
     display: initial;
   }
 
